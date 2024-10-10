@@ -7,10 +7,10 @@
 ### Description (see bottom for skill list)
 Your goal is to write a functional analog clock program, like the one that produced the image above. Your code should contain the following (but can, and should, have other things).
 * Global variables
-* Methods
+* Functions
   * `setup`
   * `draw`
-  * Other methods to help maintain your clock (some further guidelines below).
+  * Other functions to help maintain your clock (some further guidelines below).
 
 Important features you need to implement:
 * On startup, the program should get the current time using processing's own `hour()`, `minute()`, `second()` functions.
@@ -32,7 +32,7 @@ Fill in the following sections of this document with your initial design choices
 #### Global variables:
 List all global variables you will be using here. Include type, name, and purpose.
 
-#### Methods:
+#### Functions:
 List all methods here, for `setup` and `draw`, explain what they will be doing. For all other methods, include the name, return type, and description.
 
 
