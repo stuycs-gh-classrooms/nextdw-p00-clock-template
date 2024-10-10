@@ -5,7 +5,7 @@
 ---
 
 ### Description (see bottom for skill list)
-Your goal is to write a functional analog clock program, like the one that produced the image above. Your code should contain the following (but can, and should, have other things).
+Your goal is to write a functional analog clock program, (see class website for an example image). Your code should contain the following (but can, and should, have other things).
 * Global variables
 * Functions
   * `setup`
